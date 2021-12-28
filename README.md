@@ -13,9 +13,6 @@
 3、使用强大的GitHub actions功能，实现无服务器实时监控您的习讯云签到。<br>
 4、无需掌握任何编程知识，强大的后端后端已做好，您仅需点击几下。
 ## 快速使用
-
-
-、
 - Fork本项目后进入自己的仓库，点击你的仓库右上角的 Settings，找到 Secrets
     <details>
    <summary> 如何Fork本项目？</summary>
