@@ -15,6 +15,7 @@
 ## 快速使用
 
 
+、
 - Fork本项目后进入自己的仓库，点击你的仓库右上角的 Settings，找到 Secrets
     <details>
    <summary> 如何Fork本项目？</summary>
